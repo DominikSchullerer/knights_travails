@@ -25,5 +25,3 @@ class Rules
     legal_position
   end
 end
-
-p Rules.possible_moves(5, 4)
